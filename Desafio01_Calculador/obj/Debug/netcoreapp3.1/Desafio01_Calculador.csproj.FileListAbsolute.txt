@@ -1,0 +1,14 @@
+C:\Users\cslima\source\repos\Desafio01_Calculador\Desafio01_Calculador\bin\Debug\netcoreapp3.1\Desafio01_Calculador.exe
+C:\Users\cslima\source\repos\Desafio01_Calculador\Desafio01_Calculador\bin\Debug\netcoreapp3.1\Desafio01_Calculador.deps.json
+C:\Users\cslima\source\repos\Desafio01_Calculador\Desafio01_Calculador\bin\Debug\netcoreapp3.1\Desafio01_Calculador.runtimeconfig.json
+C:\Users\cslima\source\repos\Desafio01_Calculador\Desafio01_Calculador\bin\Debug\netcoreapp3.1\Desafio01_Calculador.runtimeconfig.dev.json
+C:\Users\cslima\source\repos\Desafio01_Calculador\Desafio01_Calculador\bin\Debug\netcoreapp3.1\Desafio01_Calculador.dll
+C:\Users\cslima\source\repos\Desafio01_Calculador\Desafio01_Calculador\bin\Debug\netcoreapp3.1\Desafio01_Calculador.pdb
+C:\Users\cslima\source\repos\Desafio01_Calculador\Desafio01_Calculador\obj\Debug\netcoreapp3.1\Desafio01_Calculador.csproj.AssemblyReference.cache
+C:\Users\cslima\source\repos\Desafio01_Calculador\Desafio01_Calculador\obj\Debug\netcoreapp3.1\Desafio01_Calculador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cslima\source\repos\Desafio01_Calculador\Desafio01_Calculador\obj\Debug\netcoreapp3.1\Desafio01_Calculador.AssemblyInfoInputs.cache
+C:\Users\cslima\source\repos\Desafio01_Calculador\Desafio01_Calculador\obj\Debug\netcoreapp3.1\Desafio01_Calculador.AssemblyInfo.cs
+C:\Users\cslima\source\repos\Desafio01_Calculador\Desafio01_Calculador\obj\Debug\netcoreapp3.1\Desafio01_Calculador.csproj.CoreCompileInputs.cache
+C:\Users\cslima\source\repos\Desafio01_Calculador\Desafio01_Calculador\obj\Debug\netcoreapp3.1\Desafio01_Calculador.dll
+C:\Users\cslima\source\repos\Desafio01_Calculador\Desafio01_Calculador\obj\Debug\netcoreapp3.1\Desafio01_Calculador.pdb
+C:\Users\cslima\source\repos\Desafio01_Calculador\Desafio01_Calculador\obj\Debug\netcoreapp3.1\Desafio01_Calculador.genruntimeconfig.cache
