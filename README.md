@@ -1,2 +1,2 @@
 # Desafio01_Calculador
- Calculadora do treimanto da smarapd
+ Calculadora do treinamento da smarapd
