@@ -1,2 +1,2 @@
 # Desafio01_Calculador
- Calculador do treimanto da smarapd
+ Calculadora do treimanto da smarapd
